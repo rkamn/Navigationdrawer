@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigation drawer</string>
+    <string name="open">R.string.open</string>
+    <string name="close">R.string.close</string>
+</resources>

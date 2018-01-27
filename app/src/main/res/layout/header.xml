@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/background">
+    <ImageView
+        android:layout_width="60dp"
+        android:layout_height="80dp"
+        android:src="@drawable/download"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rakesh Kumar"
+        android:textStyle="bold"
+        android:textColor="#df1919"
+        android:textSize="15dp"
+        android:layout_marginLeft="8dp"/>
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="9523654737"
+        android:textStyle="bold"
+        android:textColor="#206b33"
+        android:textSize="15dp"
+        android:layout_marginLeft="12dp"/>
+
+</LinearLayout>
